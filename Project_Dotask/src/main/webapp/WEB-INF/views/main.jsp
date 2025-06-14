@@ -8,5 +8,7 @@
 </head>
 <body>
 	git 연결 성공하였다!
+	
+	6.14일 Git Test
 </body>
 </html>
